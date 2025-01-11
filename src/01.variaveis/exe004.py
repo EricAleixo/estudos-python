@@ -1,0 +1,1 @@
+#Imagine que você está criando um sistema de senhas online, e quer armazenar 10 senhas universais(você criará elas), armazene em um tipo de variável, onde elas estarão totalmente seguras, ou seja, ninguém poderá alterá-las quando o código for executado.

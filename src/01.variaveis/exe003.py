@@ -1,0 +1,1 @@
+#Escreva um programa onde disseque uma variável, mostrando: se a variável é numérica, se ela é alfanumérica, se é alfabética, a quantidade de caracteres, e a ela estando em maiúscula e minúscula.

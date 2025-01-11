@@ -1,0 +1,1 @@
+#Faça um programa onde peça o nome e as 4 notas de um estudante, e no final exiba seu nome e sua média(das 4 notas). OBS.: crie uma lista pra armazenar as notas, e a função **sum** soma os itens dentro de uma lista.

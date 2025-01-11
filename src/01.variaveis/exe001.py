@@ -1,0 +1,1 @@
+#Depois de muito trabalho e sofrimento, a Valterlândia finalmente pagará seus escra- monitores, mas para isso, é Valter Machado(que não é muito bom na matemática) solicitou a monitora chefe Júlia um programa que calcule o pagamento dos monitores. Escreva um programa, onde receberá um salário base e calcule com um bônus, e exiba a soma do salário base com o bônus
